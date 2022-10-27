@@ -1,7 +1,7 @@
 ### Hi there im a typescript / java developer currently working on an [osu!](https://osu.ppy.sh/home)
 - 🔭 I’m currently working on [qunav2](https://github.com/Tunnelbliick/qunav2)
 
-[![Tunnelblick's GitHub stats](https://github-readme-stats.vercel.app/api?username=tunnelbliick)](https://github.com/tunnelbliick/github-readme-stats)
+[![Tunnelblick's GitHub stats](https://github-readme-stats.vercel.app/api?username=tunnelbliick)
 [![Tunnelblick's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=tunnelbliick&)
 
 <!--
