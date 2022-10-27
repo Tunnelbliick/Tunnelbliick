@@ -1,4 +1,4 @@
-### Hi there im a typescript / java developer currently working on an [osu!](https://osu.ppy.sh/home) bot.
+### Hi there, im a typescript / java developer currently working on an [osu!](https://osu.ppy.sh/home) bot.
 - 🔭 I’m currently working on [qunav2](https://github.com/Tunnelbliick/qunav2)
 
 ![Tunnelblick's GitHub stats](https://github-readme-stats.vercel.app/api?username=tunnelbliick&theme=calm)
