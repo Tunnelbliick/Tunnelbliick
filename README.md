@@ -1,8 +1,8 @@
 ### Hi there im a typescript / java developer currently working on an [osu!](https://osu.ppy.sh/home)
 - 🔭 I’m currently working on [qunav2](https://github.com/Tunnelbliick/qunav2)
 
-[![Tunnelblick's GitHub stats](https://github-readme-stats.vercel.app/api?username=tunnelbliick)
-[![Tunnelblick's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=tunnelbliick&)
+[![Tunnelblick's GitHub stats](https://github-readme-stats.vercel.app/api?username=tunnelbliick)]
+[![Tunnelblick's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=tunnelbliick&)]
 
 <!--
 **Tunnelbliick/Tunnelbliick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
